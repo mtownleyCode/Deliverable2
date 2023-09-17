@@ -9,7 +9,6 @@ var flipRandom = new Random();
 
 
 player.SetPlayersName();
-
 player.GameInvite();
 
 if (player.answer == "yes")

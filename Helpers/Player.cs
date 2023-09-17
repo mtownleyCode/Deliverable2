@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-namespace Deliverable2.Helpers
+﻿namespace Deliverable2.Helpers
 {
     public class Player
     {
